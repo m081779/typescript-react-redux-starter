@@ -1,0 +1,1 @@
+This is a starter for a React/Redux application in typescript.  It is a blank application to use to scaffold new react applications.
